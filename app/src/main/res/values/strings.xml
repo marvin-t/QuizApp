@@ -1,0 +1,70 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">My Quiz App</string>
+
+    <!-- Header text for the Quiz [CHAR LIMIT=20] -->
+    <string name="header">Avengers Endgame Quiz</string>
+
+    <!-- Description text for the Quiz [CHAR LIMIT=20] -->
+    <string name="description">This is a short but fun quiz on what you remember about the movie. Please fill in your first and last names below to start the quiz. Have fun!</string>
+
+    <!-- Sub header text for the Quiz [CHAR LIMIT=20] -->
+    <string name="subHeader">Questions</string>
+
+    <!-- Hint text display in the empty field for the user's first name [CHAR LIMIT=20] -->
+    <string name="firstName">First Name</string>
+
+    <!-- Hint text display in the empty field for the user's last name [CHAR LIMIT=20] -->
+    <string name="lastName">Last Name</string>
+
+    <!-- Question 1 [CHAR LIMIT=50] -->
+    <string name="question1">1. Who rescues Tony Stark and Nebula from space?</string>
+
+    <!-- Answers 1ABC [CHAR LIMIT=50] -->
+    <string name="answer1a">Gamora</string>
+    <string name="answer1b">Captain Marvel</string>
+    <string name="answer1c">Thor</string>
+
+    <!-- Question 2 [CHAR LIMIT=50] -->
+    <string name="question2">2. What is Tony Stark and Pepper Potts daughter\'s name?</string>
+
+    <!-- Answers 2ABC [CHAR LIMIT=50] -->
+    <string name="answer2a">Maria</string>
+    <string name="answer2b">Macy</string>
+    <string name="answer2c">Morgan</string>
+
+    <!-- Question 3 [CHAR LIMIT=50] -->
+    <string name="question3">3. Which two of the Guardians of the Galaxy was not snapped away in Avengers Infinity War?</string>
+
+    <!-- Answers 3ABCDFG [CHAR LIMIT=50] -->
+    <string name="answer3a">Rocket</string>
+    <string name="answer3b">Peter Quill</string>
+    <string name="answer3c">Groot</string>
+    <string name="answer3d">Gamora</string>
+    <string name="answer3e">Drax</string>
+    <string name="answer3f">Mantis</string>
+    <string name="answer3g">Nebula</string>
+
+    <!-- Question 4 [CHAR LIMIT=50] -->
+    <string name="question4">4. Who other than Thor, is now worthy enough to wield Mjolnir?</string>
+
+    <!-- Question 5 [CHAR LIMIT=50] -->
+    <string name="question5">5. Select all six Infinity Stones</string>
+
+    <!-- Answers 5ABCDFGH [CHAR LIMIT=50] -->
+    <string name="answer5a">Soul Stone</string>
+    <string name="answer5b">Death Stone</string>
+    <string name="answer5c">Mind Stone</string>
+    <string name="answer5d">Light Stone</string>
+    <string name="answer5e">Mind Stone</string>
+    <string name="answer5f">Power Stone</string>
+    <string name="answer5g">Space Stone</string>
+    <string name="answer5h">Reality Stone</string>
+
+    <!-- Question 6 [CHAR LIMIT=50] -->
+    <string name="question6">6. Who does Iron Man have a close bond with?</string>
+
+    <!-- Submit [CHAR LIMIT=50] -->
+    <string name="submit">Submit</string>
+
+</resources>
